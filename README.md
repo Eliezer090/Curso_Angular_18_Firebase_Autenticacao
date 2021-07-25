@@ -25,3 +25,21 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Firebase: Autenticação
+Nessa parte foi utilizado a autenticação do firebase para fazer o login na aplicação, login por usuario e senha e login pelo google.
+
+275. Passos iniciais
+276. Configuração do Firebase
+277. Listando Pessoas - Parte 1
+278. Listando Pessoas - Parte 2
+279. Módulo Auth - Parte 1
+280. Módulo Auth - Parte 2
+281. Autenticando com FireAuth
+282. Registrando Usuário
+283. Login
+284. AuthGuard
+285. Regras Firebase
+286. Login com a conta Google
+287. Salvando os dados da conta
+288. Melhorando o código
